@@ -1,9 +1,14 @@
 import './App.css';
+import Navbar from './components/Navbar.js'
+import Card from './components/Card.js'
+import Title from './components/Title.js'
 
 function App() {
   return (
     <div className="App">
-      Hiya Im morkv
+      <Navbar />
+      <Title />
+      <Card />
     </div>
   );
 }
