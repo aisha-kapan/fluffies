@@ -1,5 +1,5 @@
 export default function Title() {
     return (
-        <h1>Title</h1>
+        <h1>Welcome to Fluffies!</h1>
    )
 }
